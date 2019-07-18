@@ -10,7 +10,19 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 <img src="Images/storeApp.png" width="400" style="max-width:100%;">
 
+- 설명: JSON형식의 데이터로 상품을 표시하고 해당 상품을 구매할 수 있는 스토어 앱.(구매사실은 슬랙의 webHook으로 표현)
+
 링크: [https://github.com/hngfu/swift-storeapp](https://github.com/hngfu/swift-storeapp)
+
+----
+
+### Photo App
+
+<img src="https://user-images.githubusercontent.com/38850628/60394552-2d8f2680-9b61-11e9-83be-f0b7b37b2277.gif" width="400" style="max-width:100%;">
+
+- 설명: 몇몇 필터의 적용과 3초짜리 동영상을 만들 수 있는 사진 앱.
+
+링크: [https://github.com/hngfu/swift-photoapp](https://github.com/hngfu/swift-photoapp)
 
 ----
 
@@ -21,6 +33,16 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 - 설명: 더블탭과 드래그를 이용한 카드게임 앱.
 
 링크: [https://github.com/hngfu/swift-cardgameapp](https://github.com/hngfu/swift-cardgameapp)
+
+----
+
+### Universal App
+
+<img src="https://user-images.githubusercontent.com/38850628/60598551-d5b62100-9de7-11e9-90a7-6f361eadae4f.png" width="400" style="max-width:100%;">
+
+- 설명: 국제화, 지역화, 파편화를 이용한 영화배우 프로필 앱.
+
+링크: [https://github.com/hngfu/swift-universalapp](https://github.com/hngfu/swift-universalapp)
 
 ----
 
