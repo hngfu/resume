@@ -51,7 +51,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 - `UIGestureRecognizer`를 사용하여 드래그가 가능하도록 핢.
 - `Animation` 적용.
-- `AutoLayout` 적용
+- `AutoLayout` 적용.
 
 링크: [https://github.com/hngfu/swift-cardgameapp](https://github.com/hngfu/swift-cardgameapp)
 
@@ -61,7 +61,11 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 <img src="https://user-images.githubusercontent.com/38850628/60598551-d5b62100-9de7-11e9-90a7-6f361eadae4f.png" width="400" style="max-width:100%;">
 
-- 설명: 국제화, 지역화, 파편화를 이용한 영화배우 프로필 앱.
+#### 국제화, 지역화, 파편화를 이용한 영화배우 프로필 앱.
+
+- `System Region`에 해당하는 배우의 정보를 `System Language`로 표시.<br>(단, 생일정보의 Language는 Region의 설정된 대로 나오도록 핢)
+- iOS 11.0 이상인 경우 `UIFontMetrics`에서 `scaledFont`의 기능을 활용하도록 핢.
+- `AutoLayout` 적용.
 
 링크: [https://github.com/hngfu/swift-universalapp](https://github.com/hngfu/swift-universalapp)
 
