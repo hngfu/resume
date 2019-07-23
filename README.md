@@ -86,9 +86,13 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ### Address App
 
-<img src="Images/addressApp.png" width="400" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/38850628/55726605-22899600-5a4b-11e9-92f6-5d763b2ddbdb.png" width="400" style="max-width:100%;">
 
-- 설명: 초성검색도 가능한 연락처 앱.
+#### 초성검색도 가능한 연락처 앱.
+
+- 유니코드로 한글을 분석하여 초성검색이 가능하도록 핢.
+- 애플 샘플코드 중 `MGCContactStore` 클래스를 활용.
+- `indexTitle` 설정.
 
 링크: [https://github.com/hngfu/swift-addressbookapp](https://github.com/hngfu/swift-addressbookapp)
 
