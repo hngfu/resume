@@ -45,9 +45,13 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ### CardGame App (Klondike Solitaire)
 
-<img src="Images/cardGameApp.png" width="400" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/38850628/54986018-38cc3680-4ff5-11e9-862b-efa2d4e45583.gif" width="400" style="max-width:100%;">
 
-- 설명: 더블탭과 드래그를 이용한 카드게임 앱.
+#### 더블탭과 드래그를 이용한 카드게임 앱.
+
+- `UIGestureRecognizer`를 사용하여 드래그가 가능하도록 핢.
+- `Animation` 적용.
+- `AutoLayout` 적용
 
 링크: [https://github.com/hngfu/swift-cardgameapp](https://github.com/hngfu/swift-cardgameapp)
 
