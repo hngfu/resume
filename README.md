@@ -73,9 +73,12 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ### WebView App
 
-<img src="Images/webViewApp.png" width="400" style="max-width:100%;">
+<img src="https://user-images.githubusercontent.com/38850628/56403593-ff59b480-629c-11e9-9af1-879586b8bd42.png" width="400" style="max-width:100%;">
 
-- 설명: 메뉴 정보를 JSON형식으로 가져와서 콘솔창에 출력해주는 앱.
+#### 메뉴 정보를 JSON형식으로 가져와서 콘솔창에 출력해주는 웹뷰 앱.
+
+- js 코드를 인젝션하여 원하는 태그의 데이터를 JSON 형식으로 가져오도록 핢.
+- 특정 메뉴를 호출하는 경우 `SafariViewController`로 띄우도록 핢.
 
 링크: [https://github.com/hngfu/swift-webviewapp](https://github.com/hngfu/swift-webviewapp)
 
