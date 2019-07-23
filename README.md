@@ -12,13 +12,13 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 <img src="https://user-images.githubusercontent.com/38850628/58293521-aed7f880-7e00-11e9-8d1f-b3b40b72042c.png" width="400" style="max-width:100%;">
 
-#### 설명: JSON형식의 데이터로 상품을 표시하고 해당 상품을 구매할 수 있는 앱.<br>(구매사실은 슬랙의 webHook으로 표현)
+#### JSON형식의 데이터로 상품을 표시하고 해당 상품을 구매할 수 있는 앱.<br>(구매사실은 슬랙의 webHook으로 표현)
 
 - `dataTask`를 사용하여 json데이터를 받아와 화면에 표시.
 - `downloadTask`를 사용하여 이미지는 Cache처리.
 - `uploadTask`를 사용하여 구매정보 POST.
 - `CocoaPod`으로 'Toaster'를 설치하여 Cell 클릭시 해당 정보 Toast로 띄움.
-- `Reachability`를 사용하여 인터넷 연결 상태에 따라 다른 동작하도록 구현.
+- `Reachability`를 사용하여 인터넷 연결 상태에 따라 다른 동작하도록 핢.
 - `AutoLayout` 적용
 
 링크: [https://github.com/hngfu/swift-storeapp](https://github.com/hngfu/swift-storeapp)
@@ -29,7 +29,15 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 <img src="https://user-images.githubusercontent.com/38850628/60394552-2d8f2680-9b61-11e9-83be-f0b7b37b2277.gif" width="400" style="max-width:100%;">
 
-- 설명: 몇몇 필터의 적용과 3초짜리 동영상을 만들 수 있는 사진 앱.
+#### Photos Library를 이용한 사진앱.
+
+- `PHAsset`을 사용하여 사진 이미지를 Cell에 표시.
+- `AVAssetWriter`를 사용하여 3개 이상의 이미지로 3초 길이 비디오를 제작 만들도록 핢.
+- Asset에 필터를 적용하거나 revert를 통해 필터를 제거할 수 있도록 핢.
+- Photo Library를 Observing하여 변경되면 업데이트 하도록 핢.
+- `UIMenuItem`를 사용하여 이미지를 저장할 수 있도록 핢.
+- `Instruments`를 사용하여 네트워크 성능을 측정하여 효율적으로 이미지를 다운로드 받도록 핢.
+- `AutoLayout` 적용
 
 링크: [https://github.com/hngfu/swift-photoapp](https://github.com/hngfu/swift-photoapp)
 
