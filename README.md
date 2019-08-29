@@ -110,6 +110,10 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=ko)에서 `HngfuIsSwift`로 검색 가능
 
+## 중요하다. 기초.
+
+1. [C와 C++](https://github.com/hngfu/C_CPP)
+2. [알고리듬](https://github.com/hngfu/algorithm)
 
 ## 발표
 
