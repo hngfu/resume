@@ -4,6 +4,11 @@
 
 Github: [https://github.com/hngfu](https://github.com/hngfu)
 
+## 중요하다. 기초.
+
+1. [C와 C++](https://github.com/hngfu/C_CPP)
+2. [알고리듬](https://github.com/hngfu/algorithm)
+
 ## 코드스쿼드
 
 ### Store App
@@ -109,11 +114,6 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklklabflcildhpimhojcclkndjcpja?hl=ko](https://chrome.google.com/webstore/detail/hngfuisswift/mkklklabflcildhpimhojcclkndjcpja?hl=ko)
 
 [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=ko)에서 `HngfuIsSwift`로 검색 가능
-
-## 중요하다. 기초.
-
-1. [C와 C++](https://github.com/hngfu/C_CPP)
-2. [알고리듬](https://github.com/hngfu/algorithm)
 
 ## 발표
 
