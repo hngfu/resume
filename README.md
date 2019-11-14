@@ -9,6 +9,22 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 1. [C와 C++](https://github.com/hngfu/C_CPP)
 2. [알고리듬](https://github.com/hngfu/algorithm)
 
+## 나의 iOS 앱
+
+### 할일체크 ToDo Check
+
+# 🚧 앱 스토어 심사 중 입니다 🚧
+
+<img src = "https://user-images.githubusercontent.com/38850628/68876123-4fbbc680-0747-11ea-8164-65d4cdc8fd83.gif" width = 400 style="max-width:100%;"/>
+
+#### 멋진 할 일 관리 앱
+
+- 할 일 추가
+- 완료한 일 삭제
+- 완료한 일 저장
+
+링크: [https://github.com/hngfu/todo-check](https://github.com/hngfu/todo-check)
+
 ## 코드스쿼드
 
 ### Store App
@@ -28,7 +44,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 링크: [https://github.com/hngfu/swift-storeapp](https://github.com/hngfu/swift-storeapp)
 
-----
+---
 
 ### Photo App
 
@@ -46,7 +62,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 링크: [https://github.com/hngfu/swift-photoapp](https://github.com/hngfu/swift-photoapp)
 
-----
+---
 
 ### CardGame App (Klondike Solitaire)
 
@@ -60,7 +76,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 링크: [https://github.com/hngfu/swift-cardgameapp](https://github.com/hngfu/swift-cardgameapp)
 
-----
+---
 
 ### Universal App
 
@@ -74,7 +90,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 링크: [https://github.com/hngfu/swift-universalapp](https://github.com/hngfu/swift-universalapp)
 
-----
+---
 
 ### WebView App
 
@@ -87,7 +103,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 링크: [https://github.com/hngfu/swift-webviewapp](https://github.com/hngfu/swift-webviewapp)
 
-----
+---
 
 ### Address App
 
@@ -100,7 +116,6 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 - `indexTitle` 설정.
 
 링크: [https://github.com/hngfu/swift-addressbookapp](https://github.com/hngfu/swift-addressbookapp)
-
 
 ## 개인프로젝트
 
