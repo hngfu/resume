@@ -13,7 +13,9 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ### 할일체크 ToDo Check
 
-# 🚧 승인 완료 후 판매 준비 상태입니다. 🚧
+<a href="https://apps.apple.com/app/id1487827079">
+<img src = "https://user-images.githubusercontent.com/38850628/68924122-5ab43c80-07c3-11ea-857a-1b53eeb16cab.png" width = 200/>
+</a>
 
 <img src = "https://user-images.githubusercontent.com/38850628/68876123-4fbbc680-0747-11ea-8164-65d4cdc8fd83.gif" width = 400 style="max-width:100%;"/>
 
