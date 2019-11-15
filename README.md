@@ -13,7 +13,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ### 할일체크 ToDo Check
 
-# 🚧 앱 스토어 심사 중 입니다 🚧
+# 🚧 승인 완료 후 판매 준비 상태입니다. 🚧
 
 <img src = "https://user-images.githubusercontent.com/38850628/68876123-4fbbc680-0747-11ea-8164-65d4cdc8fd83.gif" width = 400 style="max-width:100%;"/>
 
