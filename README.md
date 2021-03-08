@@ -166,6 +166,20 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 링크: [https://github.com/hngfu/mask-app](https://github.com/hngfu/mask-app)
 
+## 경험
+
+### BluePrintLab Inc.
+
+기간: 2019.12.02 ~ 2021.02.26 (1년 3개월)
+
+- ARKit, RealityKit
+- MVVM
+- HIG
+- DDD
+- xcodebuild
+- REST API
+- Lottie
+
 ## 발표
 
 ### 오토 레이아웃만으로 구현한 신기한 스크롤 뷰
