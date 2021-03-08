@@ -20,6 +20,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
   - [📬Address App](#Address-App)
 - [🚂개인프로젝트](#개인프로젝트)
   - [💨HngfuIsSwift](#HngfuIsSwift)
+  - [📍내 주변 마스크](#내-주변-마스크)
 - [👨🏼‍🏫발표](#발표)
   - [📜오토 레이아웃만으로 구현한 신기한 스크롤 뷰](#오토-레이아웃만으로-구현한-신기한-스크롤-뷰)
   - [👽흥푸의 추일함타](#흥푸의-추일함타)
@@ -153,6 +154,17 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklklabflcildhpimhojcclkndjcpja?hl=ko](https://chrome.google.com/webstore/detail/hngfuisswift/mkklklabflcildhpimhojcclkndjcpja?hl=ko)
 
 [Chrome Web Store](https://chrome.google.com/webstore/category/extensions?hl=ko)에서 `HngfuIsSwift`로 검색 가능
+
+### 내 주변 마스크
+
+<img src="https://user-images.githubusercontent.com/38850628/110279785-09196c00-801d-11eb-8d5b-0d2e7e235e57.gif" width="400" style="max-width:100%;">
+
+#### 빠르고 직관적인 마스크 현황 앱
+
+- 주변 약국들 마스크 현황 조회
+- 구매 가능 요일 확인
+
+링크: [https://github.com/hngfu/mask-app](https://github.com/hngfu/mask-app)
 
 ## 발표
 
