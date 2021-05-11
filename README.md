@@ -196,13 +196,26 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 기간: 2019.12.02 ~ 2021.02.26 (1년 3개월)
 
-- ARKit, RealityKit
-- MVVM
-- HIG
-- DDD
-- xcodebuild
-- REST API
-- Lottie
+#### - 회사 내 모든 iOS앱 개발 및 유지보수
+
+McLaren Ultimate Vision (Offline/EU, US)  
+: 안경 가상 시착 및 안경 커스터마이징이 가능한 앱  
+[https://www.youtube.com/watch?v=KiNAFPg2C6k](https://www.youtube.com/watch?v=KiNAFPg2C6k)  
+[https://www.blueprint-lab.com/2019/02/23/McLaren-Press-Release.html](https://www.blueprint-lab.com/2019/02/23/McLaren-Press-Release.html)
+
+MASQ SeeOSK (Offline/USA)  
+: 가상 피팅 솔루션 앱  
+[https://youtu.be/ptui1A_O4Ik?t=171](https://youtu.be/ptui1A_O4Ik?t=171)
+
+#### - 앱을 자동으로 배포하기 위한 셸 스크립트를 작성하여 생산성 향상
+
+기존에 매번 수동으로 버튼들을 클릭하여 배포하던 과정을  
+셸 스크립트를 작성하여 간단한 명령어 한 줄로 자동으로 배포하도록 만들어  
+생산성을 향상시켰습니다.(Testflight 배포 수준 - B2B app이기 때문)
+
+#### - 핵심 기능을 분리하여 재사용 가능하도록 만들어 개발 생산성 향상
+
+#### - Human Interface Guidelines(HIG) 문서 기반으로 앱의 UI/UX 향상
 
 ## 발표
 
