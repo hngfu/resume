@@ -23,8 +23,10 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
   - [💨HngfuIsSwift](#HngfuIsSwift)
   - [📍내 주변 마스크](#내-주변-마스크)
 - [🧚경험](#경험)
+  - [💙카사코리아](#카사코리아)
   - [💙BluePrintLab Inc.](#BluePrintLab-Inc)
 - [👨🏼‍🏫발표](#발표)
+  - [🔍추일함타(추상화, 일반화, 함수, 타입)](#추일함타추상화-일반화-함수-타입)
   - [📜오토 레이아웃만으로 구현한 신기한 스크롤 뷰](#오토-레이아웃만으로-구현한-신기한-스크롤-뷰)
   - [👽흥푸의 추일함타](#흥푸의-추일함타)
   - [🧪Hngfu's UnitTest](#Hngfus-UnitTest)
@@ -43,7 +45,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 <img src = "https://i3.ytimg.com/vi/cr2EiR9jQEs/maxresdefault.jpg" width = 600/>
 </a>
 
-⬆ 이미지를 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube link)
+⬆ 이미지를 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
 
 #### 실시간 동기화되는 할 일 관리 앱
 
@@ -192,11 +194,31 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 ## 경험
 
+### 카사코리아
+
+기간: 2021.06 ~
+
+#### - KASA 앱 기능 개발 및 유지 보수
+
+차트(거래, 공시지가), 배당금 기능을 비롯한  
+건물 상장부터 매각까지 사이클에 필요한 주요 기능들을 개발했습니다.
+
+memory leak issue 등 다양한 문제에 대해 개선, 해결했습니다.
+
+#### - 코드 품질 향상
+
+앱 내에서 반복적으로 사용되는 보일러플레이트 코드들을  
+추상화한 프로토콜을 만들어 개선했습니다.
+
+API 통신에 대하여 불필요한 요청을 없애 성능을 향상시켰습니다.
+
+코드 리뷰에 적극적으로 임하여 코드 품질 향상에 기여했습니다.
+
 ### BluePrintLab Inc.
 
 기간: 2019.12.02 ~ 2021.02.26 (1년 3개월)
 
-#### - 회사 내 모든 iOS앱 개발 및 유지보수
+#### - 회사 내 모든 iOS앱 개발 및 유지 보수
 
 McLaren Ultimate Vision (Offline/EU, US)  
 : 안경 가상 시착 및 안경 커스터마이징이 가능한 앱  
@@ -218,6 +240,16 @@ MASQ SeeOSK (Offline/USA)
 #### - Human Interface Guidelines(HIG) 문서 기반으로 앱의 UI/UX 향상
 
 ## 발표
+
+### 추일함타(추상화, 일반화, 함수, 타입)
+
+수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
+
+<a href="https://youtu.be/Ghbcw9KKvKw">
+<img src = "https://user-images.githubusercontent.com/38850628/169544330-0b30d3da-2cdb-4438-ba3a-e932015bd51d.jpg" width = 600/>
+</a>
+
+⬆ 이미지를 클릭하시면 발표 영상으로 이동합니다.(Youtube)
 
 ### 오토 레이아웃만으로 구현한 신기한 스크롤 뷰
 
