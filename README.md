@@ -6,7 +6,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ## 최근 활동
 
-### 추일함타(추상화, 일반화, 함수, 타입)
+### - 추일함타(추상화, 일반화, 함수, 타입)
 
 수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
 
@@ -18,7 +18,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ---
 
-### 췤++
+### - 췤++
 
 <a href="https://www.youtube.com/watch?v=cr2EiR9jQEs">
 <img src = "https://i3.ytimg.com/vi/cr2EiR9jQEs/maxresdefault.jpg" width = 600/>
