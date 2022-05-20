@@ -4,6 +4,41 @@
 
 Github: [https://github.com/hngfu](https://github.com/hngfu)
 
+## 최근 활동
+
+### 추일함타(추상화, 일반화, 함수, 타입)
+
+수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
+
+<a href="https://youtu.be/Ghbcw9KKvKw">
+<img src = "https://user-images.githubusercontent.com/38850628/169544330-0b30d3da-2cdb-4438-ba3a-e932015bd51d.jpg" width = 600/>
+</a>
+
+⬆ 이미지를 클릭하시면 발표 영상으로 이동합니다.(Youtube)
+
+---
+
+### 췤++
+
+<a href="https://www.youtube.com/watch?v=cr2EiR9jQEs">
+<img src = "https://i3.ytimg.com/vi/cr2EiR9jQEs/maxresdefault.jpg" width = 600/>
+</a>
+
+⬆ 이미지를 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
+
+#### 실시간 동기화되는 할 일 관리 앱
+
+- 할 일 추가, 삭제, 수정
+- 서버 연동으로 가능해진 실시간 동기화
+- iOS, .Net Server
+- AWS - EC2, RDS(MySQL), Route53
+
+##### 바로 아래 링크에서 코드를 비롯한 저의 생각들을 보실 수 있습니다.
+
+링크: [https://github.com/hngfu/checkplusplus](https://github.com/hngfu/checkplusplus)
+  
+<br/><br/><br/><br/>
+  
 ## 목차
 
 🤩이력서
@@ -213,6 +248,8 @@ memory leak issue 등 다양한 문제에 대해 개선, 해결했습니다.
 API 통신에 대하여 불필요한 요청을 없애 성능을 향상시켰습니다.
 
 코드 리뷰에 적극적으로 임하여 코드 품질 향상에 기여했습니다.
+
+---
 
 ### BluePrintLab Inc.
 
