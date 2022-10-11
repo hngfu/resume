@@ -231,7 +231,7 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 ### 카사코리아
 
-기간: 2021.06 ~
+기간: 2021.06 ~ 2022.10 (1년 5개월)
 
 #### - KASA 앱 기능 개발 및 유지 보수
 
