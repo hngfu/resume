@@ -6,6 +6,28 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 ## 최근 활동
 
+### - K-Expert (개인 사업)
+
+중국인 타겟의 한국 뷰티 서비스 '찐' 리뷰 플랫폼
+[자세한 내용 보기](/PREMLINK/K-Expert.md)
+
+<a href="https://youtu.be/Bm9cZo092_E">
+<img src = "https://github.com/user-attachments/assets/7c92d14e-b188-4c76-8a7b-017d8c5edf0d" width = 600/>
+</a>
+
+⬆ 이미지를 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
+
+#### 사용 기술
+
+- Front-end: Next.js
+- Back-end: NestJS
+- Infra: AWS (EC2, VPC, Route 53, Amplify, CloudFront, CloudWatch, ELB, S3..)
+- Database: MongoDB
+- Analytics: Plausible (On-premise)
+- Logging: AWS CloudWatch, Sentry
+
+---
+
 ### - 추일함타(추상화, 일반화, 함수, 타입)
 
 수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
@@ -36,14 +58,16 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 ##### 바로 아래 링크에서 코드를 비롯한 저의 생각들을 보실 수 있습니다.
 
 링크: [https://github.com/hngfu/checkplusplus](https://github.com/hngfu/checkplusplus)
-  
+
 <br/><br/><br/><br/>
-  
+
 ## 목차
 
 🤩이력서
 
 - [😮중요하다. 기초.](#중요하다-기초)
+- [🚀사업](#사업-premlink)
+  - [😚K-Expert](#k-expert)
 - [🍎나의 iOS 앱](#나의-iOS-앱)
   - [✔️췤++](#췤)
   - [✅할일체크 ToDo Check](#할일체크-ToDo-Check)
@@ -58,8 +82,9 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
   - [💨HngfuIsSwift](#HngfuIsSwift)
   - [📍내 주변 마스크](#내-주변-마스크)
 - [🧚경험](#경험)
+  - [🖤PREMLINK(개인 사업)](#premlink-개인-사업)
   - [💙카사코리아](#카사코리아)
-  - [💙BluePrintLab Inc.](#BluePrintLab-Inc)
+  - [💙BluePrintLab Inc.](#blueprintlab-inc)
 - [👨🏼‍🏫발표](#발표)
   - [🔍추일함타(추상화, 일반화, 함수, 타입)](#추일함타추상화-일반화-함수-타입)
   - [📜오토 레이아웃만으로 구현한 신기한 스크롤 뷰](#오토-레이아웃만으로-구현한-신기한-스크롤-뷰)
@@ -71,6 +96,30 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 
 1. [C와 C++](https://github.com/hngfu/C_CPP)
 2. [알고리듬](https://github.com/hngfu/algorithm)
+
+## 사업 (PREMLINK)
+
+### K-Expert
+
+중국인 타겟의 한국 뷰티 서비스 '찐' 리뷰 플랫폼
+[자세한 내용 보기](/PREMLINK/K-Expert.md)
+
+<a href="https://youtu.be/Bm9cZo092_E">
+<img src = "https://github.com/user-attachments/assets/7c92d14e-b188-4c76-8a7b-017d8c5edf0d" width = 600/>
+</a>
+
+⬆ 이미지를 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
+
+#### 사용 기술
+
+- Front-end: Next.js
+- Back-end: NestJS
+- Infra: AWS (EC2, VPC, Route 53, Amplify, CloudFront, CloudWatch, ELB, S3..)
+- Database: MongoDB
+- Analytics: Plausible (On-premise)
+- Logging: AWS CloudWatch, Sentry
+
+<br/>
 
 ## 나의 iOS 앱
 
@@ -228,6 +277,15 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 링크: [https://github.com/hngfu/mask-app](https://github.com/hngfu/mask-app)
 
 ## 경험
+
+### PREMLINK (개인 사업)
+
+기간: 2023.12 ~
+
+#### K-Expert
+
+중국인 타겟의 한국 뷰티 서비스 '찐' 리뷰 플랫폼
+[자세한 내용 보기](/PREMLINK/K-Expert.md)
 
 ### 카사코리아
 
