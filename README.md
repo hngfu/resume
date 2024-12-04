@@ -280,7 +280,7 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 ### PREMLINK (개인 사업)
 
-기간: 2023.12 ~
+기간: 2023.12 ~ 2024.12.03
 
 #### K-Expert
 
