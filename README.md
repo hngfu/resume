@@ -287,6 +287,8 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 중국인 타겟의 한국 뷰티 서비스 '찐' 리뷰 플랫폼
 [자세한 내용 보기](/PREMLINK/K-Expert.md)
 
+---
+
 ### 카사코리아
 
 기간: 2021.06 ~ 2022.10 (1년 5개월)
