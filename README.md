@@ -284,7 +284,7 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 #### K-Expert (PREMLINK / 2023.12 ~ 2024.12)
 
-중국인 타겟의 한국 뷰티 서비스 '찐' 리뷰 플랫폼  
+중국인 타겟의 한국 뷰티 서비스 '찐' 리뷰 플랫폼
 [자세한 내용 보기](/PREMLINK/K-Expert.md)
 
 ---
