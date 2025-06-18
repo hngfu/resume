@@ -278,11 +278,11 @@ Chrome Web Store: [https://chrome.google.com/webstore/detail/hngfuisswift/mkklkl
 
 ## 경험
 
-### PREMLINK (개인 사업)
+### 개인 사업
 
-기간: 2023.12 ~ 2024.12.03
+기간: 2022.11 ~ 현재
 
-#### K-Expert
+#### K-Expert (PREMLINK / 2023.12 ~ 2024.12)
 
 중국인 타겟의 한국 뷰티 서비스 '찐' 리뷰 플랫폼
 [자세한 내용 보기](/PREMLINK/K-Expert.md)
