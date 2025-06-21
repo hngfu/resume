@@ -12,7 +12,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 [자세한 내용 보기](/PREMLINK/K-Expert.md)
 
 <a href="https://youtu.be/Bm9cZo092_E">
-<img src = "https://github.com/user-attachments/assets/7c92d14e-b188-4c76-8a7b-017d8c5edf0d" width = 600/>
+<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/K-Expert.gif" width = "400"/>
 </a>
 
 ⬆ 이미지를 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
@@ -33,7 +33,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
 
 <a href="https://youtu.be/Ghbcw9KKvKw">
-<img src = "https://user-images.githubusercontent.com/38850628/169544330-0b30d3da-2cdb-4438-ba3a-e932015bd51d.jpg" width = 600/>
+<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/AGFT.gif" width = "600"/>
 </a>
 
 ⬆ 이미지를 클릭하시면 발표 영상으로 이동합니다.(Youtube)
@@ -43,7 +43,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 ### - 췤++
 
 <a href="https://www.youtube.com/watch?v=cr2EiR9jQEs">
-<img src = "https://i3.ytimg.com/vi/cr2EiR9jQEs/maxresdefault.jpg" width = 600/>
+<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/CheckPlusPlus.gif" width = "600"/>
 </a>
 
 ⬆ 이미지를 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
@@ -105,7 +105,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 [자세한 내용 보기](/PREMLINK/K-Expert.md)
 
 <a href="https://youtu.be/Bm9cZo092_E">
-<img src = "https://github.com/user-attachments/assets/7c92d14e-b188-4c76-8a7b-017d8c5edf0d" width = 600/>
+<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/K-Expert.gif" width = "400"/>
 </a>
 
 ⬆ 이미지를 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
@@ -126,7 +126,7 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 ### 췤++
 
 <a href="https://www.youtube.com/watch?v=cr2EiR9jQEs">
-<img src = "https://i3.ytimg.com/vi/cr2EiR9jQEs/maxresdefault.jpg" width = 600/>
+<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/CheckPlusPlus.gif" width = "600"/>
 </a>
 
 ⬆ 이미지를 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
@@ -343,7 +343,7 @@ MASQ SeeOSK (Offline/USA)
 수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
 
 <a href="https://youtu.be/Ghbcw9KKvKw">
-<img src = "https://user-images.githubusercontent.com/38850628/169544330-0b30d3da-2cdb-4438-ba3a-e932015bd51d.jpg" width = 600/>
+<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/AGFT.gif" width = "600"/>
 </a>
 
 ⬆ 이미지를 클릭하시면 발표 영상으로 이동합니다.(Youtube)
