@@ -12,10 +12,10 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 [자세한 내용 보기](/PREMLINK/K-Expert.md)
 
 <a href="https://youtu.be/Bm9cZo092_E">
-<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/K-Expert.gif" width = "400"/>
+<img src = "https://github.com/user-attachments/assets/304ab85e-c300-4d89-ac88-ddb4340409f2" width = "400"/>
 </a>
 
-⬆ 이미지를 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
+⬆ 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
 
 #### 사용 기술
 
@@ -33,20 +33,20 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
 
 <a href="https://youtu.be/Ghbcw9KKvKw">
-<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/AGFT.gif" width = "600"/>
+<img src = "https://github.com/user-attachments/assets/475addb5-18a7-41cd-8795-703834ecd43d" width = "600"/>
 </a>
 
-⬆ 이미지를 클릭하시면 발표 영상으로 이동합니다.(Youtube)
+⬆ 클릭하시면 발표 영상으로 이동합니다.(Youtube)
 
 ---
 
 ### - 췤++
 
 <a href="https://www.youtube.com/watch?v=cr2EiR9jQEs">
-<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/CheckPlusPlus.gif" width = "600"/>
+<img src = "https://github.com/user-attachments/assets/b46ed55c-923a-4e9c-b1a8-c8e89f301d72" width = "600"/>
 </a>
 
-⬆ 이미지를 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
+⬆ 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
 
 #### 실시간 동기화되는 할 일 관리 앱
 
@@ -105,10 +105,10 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 [자세한 내용 보기](/PREMLINK/K-Expert.md)
 
 <a href="https://youtu.be/Bm9cZo092_E">
-<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/K-Expert.gif" width = "400"/>
+<img src = "https://github.com/user-attachments/assets/304ab85e-c300-4d89-ac88-ddb4340409f2" width = "400"/>
 </a>
 
-⬆ 이미지를 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
+⬆ 클릭하시면 서비스를 간략하게 보실 수 있는 영상으로 이동합니다.(Youtube)
 
 #### 사용 기술
 
@@ -126,10 +126,10 @@ Github: [https://github.com/hngfu](https://github.com/hngfu)
 ### 췤++
 
 <a href="https://www.youtube.com/watch?v=cr2EiR9jQEs">
-<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/CheckPlusPlus.gif" width = "600"/>
+<img src = "https://github.com/user-attachments/assets/b46ed55c-923a-4e9c-b1a8-c8e89f301d72" width = "600"/>
 </a>
 
-⬆ 이미지를 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
+⬆ 클릭하시면 앱 소개 영상으로 이동합니다.(Youtube)
 
 #### 실시간 동기화되는 할 일 관리 앱
 
@@ -343,10 +343,10 @@ MASQ SeeOSK (Offline/USA)
 수백 명 앞에서 발표한 코드스쿼드 온라인 컨퍼런스..
 
 <a href="https://youtu.be/Ghbcw9KKvKw">
-<img src = "https://raw.githubusercontent.com/hngfu/hngfu.github.io/refs/heads/main/images/AGFT.gif" width = "600"/>
+<img src = "https://github.com/user-attachments/assets/475addb5-18a7-41cd-8795-703834ecd43d" width = "600"/>
 </a>
 
-⬆ 이미지를 클릭하시면 발표 영상으로 이동합니다.(Youtube)
+⬆ 클릭하시면 발표 영상으로 이동합니다.(Youtube)
 
 ### 오토 레이아웃만으로 구현한 신기한 스크롤 뷰
 
